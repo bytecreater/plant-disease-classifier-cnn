@@ -1,6 +1,10 @@
 streamlit
+tensorflow
 numpy
+pandas
+Pillow
+geopy
+python-dotenv
 langchain
 langchain-mistralai
 langchain-core
-dotenv
