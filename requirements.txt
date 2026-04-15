@@ -5,3 +5,4 @@ pillow
 langchain
 langchain-mistralai
 langchain-core
+dotenv
