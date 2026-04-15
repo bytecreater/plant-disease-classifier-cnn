@@ -1,7 +1,5 @@
 streamlit
-tensorflow-cpu
 numpy
-pillow
 langchain
 langchain-mistralai
 langchain-core
